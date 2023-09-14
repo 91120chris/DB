@@ -1,6 +1,6 @@
 # DB
 ## 作業區
-[HW0](https://drive.google.com/file/d/1lXFxurR4skVvS74FS3rRskkLHzJDVsjs/view?usp=sharing)
+[HW0]()
 
 HW1
 
